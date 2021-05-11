@@ -1,2 +1,5 @@
-package PACKAGE_NAME;public class ATM {
+public class ATM {
+    public static void main(String[] args) {
+
+    }
 }

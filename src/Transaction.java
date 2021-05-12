@@ -8,5 +8,5 @@ public class Transaction {
 
     private String memo; // A memo for this transaction
 
-    private  Account inAccount; //The account in which the transaction was performed
+    private Account inAccount; //The account in which the transaction was performed
 }
